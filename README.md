@@ -27,3 +27,6 @@
 
 后端使用 springboot
 前端使用vue
+
+数据库采用MySQL
+
